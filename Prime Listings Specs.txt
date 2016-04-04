@@ -23,6 +23,7 @@ White:  ffffff
 Black:  1f1f1f
 Gray:   7c7c7c
 Yellow: e5dc33
+Dark Blue: 103547
 
 Main Navigation (About, Location, Contact) - Lato Regular, 12px
 
